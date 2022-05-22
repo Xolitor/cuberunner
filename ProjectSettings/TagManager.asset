@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - deathZone
+  - platform
+  - enemy
+  - checkpoint
+  - spawnpoint
+  - bigplatform
+  - fallplatform
+  - Win
+  - canon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - player
+  - back
+  - cameraEffect
+  - buildings
+  - bl2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 4278792767
+    locked: 0
+  - name: ground
+    uniqueID: 1226383883
+    locked: 0
+  - name: back
+    uniqueID: 150384449
+    locked: 0
+  - name: menu
+    uniqueID: 412579751
+    locked: 0
+  - name: cameraEffect
+    uniqueID: 3447470811
+    locked: 0
