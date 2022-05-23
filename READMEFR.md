@@ -1,4 +1,4 @@
-# NightCube
+# NightCube FR
 
 Voici la version francaise de la description de ce projet:
 
