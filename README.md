@@ -3,6 +3,8 @@
 This is my first ever attempt at creating a game using Unity as the main engine. 
 It's a little side scroller composed of one single level to test out the different functionalities of Unity.
 
+I have also attached a READMEFR.md for French speakers.
+
 
 
 ![cuberunner](https://user-images.githubusercontent.com/106030110/169709484-1bee6272-9a79-4dbd-bad8-451712a7818a.png)
