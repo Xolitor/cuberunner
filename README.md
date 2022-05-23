@@ -3,7 +3,7 @@
 This is my first ever attempt at creating a game using Unity as the main engine. 
 It's a little side scroller composed of one single level to test out the different functionalities of Unity.
 
-I have also attached a READMEFR.md for French speakers.
+I have also attached a readme file right ![here](READMEFR.md) for French speakers.
 
 
 
