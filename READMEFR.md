@@ -1,6 +1,7 @@
 # NightCube
 
 Voici la version francaise de la description de ce projet:
+
 C'etait ma toute premiere approche dans l'utilisation du moteur de jeu Unity.
 C'est un simple side-scroller compose d'un seul niveau pour tester les differentes fonctionnalite de Unity et ainsi mieux comprendre cette interface de developpement graphique pour de nouveau l'utiliser dans de futurs projets.
 
