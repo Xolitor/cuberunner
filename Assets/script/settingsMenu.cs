@@ -8,7 +8,6 @@ using System.Linq;
 public class settingsMenu : MonoBehaviour
 {
     public AudioMixer audioMixer;
-
     public Dropdown resolutionDropdown;
 
     Resolution[] resolutions;

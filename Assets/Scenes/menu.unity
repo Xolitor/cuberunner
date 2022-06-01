@@ -6830,9 +6830,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2446372416836109618, guid: 6afa85ed99555d440971041a2c8d13c1,
         type: 3}
+      propertyPath: m_IsOn
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446372416836109618, guid: 6afa85ed99555d440971041a2c8d13c1,
+        type: 3}
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 731569685}
+    - target: {fileID: 2446372416836109618, guid: 6afa85ed99555d440971041a2c8d13c1,
+        type: 3}
+      propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: settingsMenu, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 2446372416978761900, guid: 6afa85ed99555d440971041a2c8d13c1,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
